@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link href="http://meyerweb.com/eric/tools/css/reset/reset.css" rel="stylesheet">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="css/faq.css">
 		<meta charset="UTF-8">
+		<link href="http://meyerweb.com/eric/tools/css/reset/reset.css" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet">
+		<link href="https://www.dafontfree.net/freefonts-futura-std-f61836.htm" rel="stylesheet">
+		<link href="https://fonts.google.com/specimen/Roboto+Condensed" rel="stylesheet">
+		<link href="https://www.fonts.com/font/typodermic/libel-suit?QueryFontType=Web&src=GoogleWebFonts" rel="stylesheet">
 		<title>Frequent Asked Questions || NALU</title>
 	</head>
 	<body>
@@ -16,27 +19,26 @@
 
 			<div class="main">
 
-				<h2>Preguntas Frecuentes</h2>
-				<h3>Acá se encuetran algunas de las preguntas de nuestros usuarios sobre nosotros y como ser parte.</h3>
+				<h1>Preguntas Frecuentes</h1>
+				<h3>Acá se encuetran algunas de las preguntas de nuestros usuarios sobre nosotros y sobre como ser parte.</h3>
 
 				<br>
 				<br>
 
-				<p class="preguntas">
-					<h1>Qué es Nalu?</h1>
+					<h2>¿Qué es Nalu?</h2>
 					<p>Nalu es una red social destinada para los amantes del Mar.</p>
 				<br>
-					<h1>Qué oportunidades provee Nalu?</h1>
+					<h2>¿Qué oportunidades provee Nalu?</h2>
 					<p>Nalu tiene la particularidad de concatenar varias funciones o herramientas que necesitamos para estar preparados para el dia importante.</p>
 				<br>
-					<h1>Qué dia es importante?</h1>
-					<p>El dia imporante para nosotros es el dia que hay Olas(Nalu) y son de calidad</p>
+					<h2>¿Qué dia es importante?</h2>
+					<p>El dia imporante para nosotros es el dia que hay Olas(Nalu) y son de calidad.</p>
 				<br>
-					<h1>Qué requisitos necesitamos para ser parte de Nalu?</h1>
-					<p>Para ser parte de Nalu el unico requisito es registrarse y tener ganas de compartir</p>
+					<h2>¿Qué requisitos necesitamos para ser parte de Nalu?</h2>
+					<p>Para ser parte de Nalu el unico requisito es registrarse y tener ganas de compartir.</p>
 				<br>
-					<h1>Cuantos integrantes hay en el equipo de Nalu?</h1>
-					<p>Nalu cuenta con 3 pilares constitutivos. Nicolás, Bautista y Franco.</p>
+					<h2>¿Cuantos integrantes hay en el equipo de Nalu?</h2>
+					<p>Nalu cuenta con 4 pilares constitutivos. Nicolás, Bautista, Camila y Franco.</p>
 				<br>
 
 			<!--Aca es un espacio para que los usuarios dejen sus dudas -->

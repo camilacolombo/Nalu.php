@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link href="http://meyerweb.com/eric/tools/css/reset/reset.css" rel="stylesheet">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="css/elset.css">
-<link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet">
+		<link href="http://meyerweb.com/eric/tools/css/reset/reset.css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet">
+		<link href="https://www.dafontfree.net/freefonts-futura-std-f61836.htm" rel="stylesheet">
+		<link href="https://fonts.google.com/specimen/Roboto+Condensed" rel="stylesheet">
+		<link href="https://www.fonts.com/font/typodermic/libel-suit?QueryFontType=Web&src=GoogleWebFonts" rel="stylesheet">
 		<meta charset="UTF-8">
 		<title>El set || NALU</title>
 	</head>
@@ -36,31 +39,33 @@
 							<a href="peru.html">Perú</a>
 						</div>
 
+					</div>
 				</div>
-			</div>
 
-			<br>
-			<h1>- Herramientas -</h1>
-			<br>
+				<br>
+				<h1>- Herramientas -</h1>
+				<br>
 
-			<div class="paginas">
-				<ul>
-					<li><a href="http://es.magicseaweed.com/">MSW(MagicSeaWeed)</a></li>
-					<li><a href="http://old.windguru.cz/es/index.php?sc=3640">WindGuru</a></li>
-					<li><a href="https://www.windy.com/?-34.444,-58.578,5">Windy</a></li>
-					<li><a href="http://www.surfline.com">Surfline</a></li>
-				</ul>
-			</div>
-
-			<br>
-
-			<div class="main2">
-				<div class="box">
-					<h1>- Academia -</h1>
-					<br>
-					<h2>Espacio para aprender todo lo relativo al surf. Atencion: Esta en inglés.</h2>
-					<a href ="http://www.surfline.com/community/whoknows/">Academia</a>
+				<div class="paginas">
+					<ul>
+						<li><a href="http://es.magicseaweed.com/">MSW(MagicSeaWeed)</a></li>
+						<li><a href="http://old.windguru.cz/es/index.php?sc=3640">WindGuru</a></li>
+						<li><a href="https://www.windy.com/?-34.444,-58.578,5">Windy</a></li>
+						<li><a href="http://www.surfline.com">Surfline</a></li>
+					</ul>
 				</div>
+
+				<br>
+
+				<div class="main2">
+					<div class="box">
+						<h1>- Academia -</h1>
+						<br>
+						<h2>Espacio para aprender todo lo relativo al surf. Atencion: Esta en inglés.</h2>
+						<a href ="http://www.surfline.com/community/whoknows/">Academia</a>
+					</div>
+				</div>
+
 			</div>
 
 		</div>
